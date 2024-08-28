@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" version="3.0.2" name="UpdateUserTest" time="27.698" tests="20" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="22"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1251"/>
+    <property name="java.class.path" value="C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\target\test-classes;C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\target\classes;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-junit4\2.28.0\allure-junit4-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-java-commons\2.28.0\allure-java-commons-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-model\2.28.0\allure-model-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-test-filter\2.28.0\allure-test-filter-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-rest-assured\2.28.0\allure-rest-assured-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-attachments\2.28.0\allure-attachments-2.28.0.jar;C:\Users\Nataly\.m2\repository\org\freemarker\freemarker\2.3.33\freemarker-2.3.33.jar;C:\Users\Nataly\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\Nataly\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Nataly\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Nataly\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Nataly\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Nataly\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Nataly\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Nataly\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Nataly\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Nataly\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Nataly\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\Nataly\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Nataly\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\Nataly\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\Nataly\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Nataly\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Nataly\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\Nataly\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;C:\Users\Nataly\.m2\repository\org\projectlombok\lombok\1.18.34\lombok-1.18.34.jar;C:\Users\Nataly\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\Nataly\.m2\repository\ch\qos\logback\logback-classic\1.5.6\logback-classic-1.5.6.jar;C:\Users\Nataly\.m2\repository\ch\qos\logback\logback-core\1.5.6\logback-core-1.5.6.jar;C:\Users\Nataly\.m2\repository\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Moscow"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="22"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="RU"/>
+    <property name="sun.boot.library.path" value="C:\Users\Nataly\.jdks\openjdk-22.0.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\Nataly\AppData\Local\Temp\surefire14428437660244272722\surefirebooter-20240828141754224_3.jar C:\Users\Nataly\AppData\Local\Temp\surefire14428437660244272722 2024-08-28T14-17-54_131-jvmRun1 surefire-20240828141754224_1tmp surefire_0-20240828141754224_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\target\test-classes;C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\target\classes;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-junit4\2.28.0\allure-junit4-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-java-commons\2.28.0\allure-java-commons-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-model\2.28.0\allure-model-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-test-filter\2.28.0\allure-test-filter-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-rest-assured\2.28.0\allure-rest-assured-2.28.0.jar;C:\Users\Nataly\.m2\repository\io\qameta\allure\allure-attachments\2.28.0\allure-attachments-2.28.0.jar;C:\Users\Nataly\.m2\repository\org\freemarker\freemarker\2.3.33\freemarker-2.3.33.jar;C:\Users\Nataly\.m2\repository\io\rest-assured\rest-assured\5.5.0\rest-assured-5.5.0.jar;C:\Users\Nataly\.m2\repository\org\apache\groovy\groovy\4.0.22\groovy-4.0.22.jar;C:\Users\Nataly\.m2\repository\org\apache\groovy\groovy-xml\4.0.22\groovy-xml-4.0.22.jar;C:\Users\Nataly\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\Nataly\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\Nataly\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\Nataly\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\Nataly\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\Nataly\.m2\repository\org\hamcrest\hamcrest\2.2\hamcrest-2.2.jar;C:\Users\Nataly\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\Nataly\.m2\repository\io\rest-assured\json-path\5.5.0\json-path-5.5.0.jar;C:\Users\Nataly\.m2\repository\org\apache\groovy\groovy-json\4.0.22\groovy-json-4.0.22.jar;C:\Users\Nataly\.m2\repository\io\rest-assured\rest-assured-common\5.5.0\rest-assured-common-5.5.0.jar;C:\Users\Nataly\.m2\repository\io\rest-assured\xml-path\5.5.0\xml-path-5.5.0.jar;C:\Users\Nataly\.m2\repository\junit\junit\4.13.2\junit-4.13.2.jar;C:\Users\Nataly\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\Nataly\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar;C:\Users\Nataly\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar;C:\Users\Nataly\.m2\repository\org\projectlombok\lombok\1.18.34\lombok-1.18.34.jar;C:\Users\Nataly\.m2\repository\org\slf4j\slf4j-api\2.0.13\slf4j-api-2.0.13.jar;C:\Users\Nataly\.m2\repository\ch\qos\logback\logback-classic\1.5.6\logback-classic-1.5.6.jar;C:\Users\Nataly\.m2\repository\ch\qos\logback\logback-core\1.5.6\logback-core-1.5.6.jar;C:\Users\Nataly\.m2\repository\org\apache\commons\commons-lang3\3.15.0\commons-lang3-3.15.0.jar;"/>
+    <property name="allure.results.directory" value="C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\target/allure-results"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Nataly"/>
+    <property name="user.language" value="ru"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2024-04-16"/>
+    <property name="java.home" value="C:\Users\Nataly\.jdks\openjdk-22.0.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Nataly\AppData\Local\Temp\surefire14428437660244272722\surefirebooter-20240828141754224_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="22.0.1+8-16"/>
+    <property name="user.name" value="Nataly"/>
+    <property name="stdout.encoding" value="Cp1251"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Nataly\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Nataly\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2023.1.2"/>
+    <property name="java.version" value="22.0.1"/>
+    <property name="user.dir" value="C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1251"/>
+    <property name="java.library.path" value="C:\Users\Nataly\.jdks\openjdk-22.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Amazon Corretto\jdk11.0.23_9\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\sbt\bin;C:\Program Files\k6\;C:\chromedriver;C:\Program Files\Git\cmd;C:\geckodriver;C:\Program Files\apache-maven-3.9.6\bin;C:\git\Sprint7_API\.allure\allure-2.30.0\bin;C:\Users\Nataly\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2023.1.1\bin;C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.1.2\bin;C:\Users\Nataly\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Nataly\AppData\Local\Programs\Fiddler;C:\chromedriver;C:\geckodriver;C:\Program Files\apache-maven-3.9.6\bin;C:\git\Sprint7_API\.allure\allure-2.30.0\bin;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="stderr.encoding" value="Cp1251"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="22.0.1+8-16"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="66.0"/>
+  </properties>
+  <testcase name="updateLoginUser[0 : update all fields]" classname="UpdateUserTest" time="1.314">
+    <system-out><![CDATA[14:18:26.886 [main] INFO UpdateUserTest -- Обновляемые данные: {password=Ul9bZALp, name=jMxiLg, email=pSfAt@UyV.ru}
+14:18:27.198 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"psfat@uyv.ru","name":"jMxiLg"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[0 : update all fields]" classname="UpdateUserTest" time="1.448">
+    <system-out><![CDATA[14:18:28.431 [main] INFO UpdateUserTest -- Обновляемые данные: {password=Ul9bZALp, name=jMxiLg, email=pSfAt@UyV.ru}
+14:18:28.626 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+  <testcase name="updateLoginUser[1 : update email]" classname="UpdateUserTest" time="1.3">
+    <system-out><![CDATA[14:18:29.667 [main] INFO UpdateUserTest -- Обновляемые данные: {password=38FQouGr, name=PnrYXL, email=HOTqD@bdJ.ru}
+14:18:29.979 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"hotqd@bdj.ru","name":"PnrYXL"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[1 : update email]" classname="UpdateUserTest" time="1.081">
+    <system-out><![CDATA[14:18:30.842 [main] INFO UpdateUserTest -- Обновляемые данные: {password=5QeRoVqs, name=sjYffM, email=HOTqD@bdJ.ru}
+14:18:31.055 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+  <testcase name="updateLoginUser[2 : update password]" classname="UpdateUserTest" time="1.246">
+    <system-out><![CDATA[14:18:31.970 [main] INFO UpdateUserTest -- Обновляемые данные: {password=WHnmJmWa, name=eGKoTd, email=eFORL@akJ.ru}
+14:18:32.318 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"eforl@akj.ru","name":"eGKoTd"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[2 : update password]" classname="UpdateUserTest" time="1.214">
+    <system-out><![CDATA[14:18:33.242 [main] INFO UpdateUserTest -- Обновляемые данные: {password=WHnmJmWa, name=ECUVvx, email=kjcKT@iUC.ru}
+14:18:33.507 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+  <testcase name="updateLoginUser[3 : update name]" classname="UpdateUserTest" time="1.65">
+    <system-out><![CDATA[14:18:34.414 [main] INFO UpdateUserTest -- Обновляемые данные: {password=69gDwIuX, name=TBoSdP, email=AywvV@qxj.ru}
+14:18:34.915 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"aywvv@qxj.ru","name":"TBoSdP"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[3 : update name]" classname="UpdateUserTest" time="1.301">
+    <system-out><![CDATA[14:18:36.062 [main] INFO UpdateUserTest -- Обновляемые данные: {password=3ZQpbZpb, name=TBoSdP, email=efygl@nmP.ru}
+14:18:36.467 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+  <testcase name="updateLoginUser[4 : update email without another fields]" classname="UpdateUserTest" time="1.108">
+    <system-out><![CDATA[14:18:37.401 [main] INFO UpdateUserTest -- Обновляемые данные: {email=YcnVJ@xDb.ru}
+14:18:37.642 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"ycnvj@xdb.ru","name":"HQBDTA"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[4 : update email without another fields]" classname="UpdateUserTest" time="1.077">
+    <system-out><![CDATA[14:18:38.473 [main] INFO UpdateUserTest -- Обновляемые данные: {email=YcnVJ@xDb.ru}
+14:18:38.694 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+  <testcase name="updateLoginUser[5 : update password without another fields]" classname="UpdateUserTest" time="1.055">
+    <system-out><![CDATA[14:18:39.531 [main] INFO UpdateUserTest -- Обновляемые данные: {password=xminHfx1}
+14:18:39.773 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"wtswa@prj.ru","name":"oITJcI"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[5 : update password without another fields]" classname="UpdateUserTest" time="1.492">
+    <system-out><![CDATA[14:18:40.543 [main] INFO UpdateUserTest -- Обновляемые данные: {password=xminHfx1}
+14:18:40.701 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+  <testcase name="updateLoginUser[6 : update name without another fields]" classname="UpdateUserTest" time="2.489">
+    <system-out><![CDATA[14:18:42.746 [main] INFO UpdateUserTest -- Обновляемые данные: {name=slCswl}
+14:18:43.685 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"ifmij@vnx.ru","name":"slCswl"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[6 : update name without another fields]" classname="UpdateUserTest" time="1.33">
+    <system-out><![CDATA[14:18:44.628 [main] INFO UpdateUserTest -- Обновляемые данные: {name=slCswl}
+14:18:45.017 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+  <testcase name="updateLoginUser[7 : update email + password without name]" classname="UpdateUserTest" time="1.512">
+    <system-out><![CDATA[14:18:46.168 [main] INFO UpdateUserTest -- Обновляемые данные: {password=mdMwMb6Z, email=JYxqJ@DhM.ru}
+14:18:46.538 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"jyxqj@dhm.ru","name":"gwkEfA"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[7 : update email + password without name]" classname="UpdateUserTest" time="1.531">
+    <system-out><![CDATA[14:18:47.502 [main] INFO UpdateUserTest -- Обновляемые данные: {password=mdMwMb6Z, email=JYxqJ@DhM.ru}
+14:18:47.831 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+  <testcase name="updateLoginUser[8 : update password + name without email]" classname="UpdateUserTest" time="1.388">
+    <system-out><![CDATA[14:18:49.061 [main] INFO UpdateUserTest -- Обновляемые данные: {password=S3uHtTwi, name=vrpznb}
+14:18:49.460 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"fzobf@zxm.ru","name":"vrpznb"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[8 : update password + name without email]" classname="UpdateUserTest" time="1.202">
+    <system-out><![CDATA[14:18:50.371 [main] INFO UpdateUserTest -- Обновляемые данные: {password=S3uHtTwi, name=vrpznb}
+14:18:50.665 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+  <testcase name="updateLoginUser[9 : update email + name without password]" classname="UpdateUserTest" time="1.649">
+    <system-out><![CDATA[14:18:51.586 [main] INFO UpdateUserTest -- Обновляемые данные: {name=LLSHft, email=ODKjL@SLH.ru}
+14:18:52.105 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":true,"user":{"email":"odkjl@slh.ru","name":"LLSHft"}}
+]]></system-out>
+  </testcase>
+  <testcase name="updateWithoutLogin[9 : update email + name without password]" classname="UpdateUserTest" time="1.267">
+    <system-out><![CDATA[14:18:53.235 [main] INFO UpdateUserTest -- Обновляемые данные: {name=LLSHft, email=ODKjL@SLH.ru}
+14:18:53.458 [main] INFO UpdateUserTest -- Получен ответ от сервера {"success":false,"message":"You should be authorised"}
+]]></system-out>
+  </testcase>
+</testsuite>
