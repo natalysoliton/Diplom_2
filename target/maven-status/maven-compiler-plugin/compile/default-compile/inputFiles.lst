@@ -1,0 +1,14 @@
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\client\Client.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\client\ingredient\IngredientClient.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\client\order\OrderClient.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\client\user\UserClient.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\generator\IngredientsGenerator.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\generator\UserGenerator.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\model\Ingredient\Ingredient.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\model\Ingredient\IngredientData.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\model\order\OrderAfterCreate.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\model\user\User.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\model\user\UserForCreateOrder.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\model\user\UserWithoutEmail.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\model\user\UserWithoutName.java
+C:\Users\Nataly\Documents\Yandex\final\diplom2_APITests\src\main\java\ru\yandex\practicum\model\user\UserWithoutPassword.java

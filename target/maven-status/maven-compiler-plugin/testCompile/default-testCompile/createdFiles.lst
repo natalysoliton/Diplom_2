@@ -1,0 +1,9 @@
+CreateValidUserTest.class
+CreateInvalidUserTest.class
+CreateOrderWithLoginTest.class
+GetOrderForUserTest.class
+CreateOrderWithoutLoginTest.class
+GetIngredientsTest.class
+BaseTest.class
+LoginUserTest.class
+UpdateUserTest.class
